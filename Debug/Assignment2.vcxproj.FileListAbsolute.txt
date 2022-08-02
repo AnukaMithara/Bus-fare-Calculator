@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Assignment\Assignment2\Debug\Assignment2.vcxprojAssemblyReference.cache
+C:\Users\user\Desktop\Assignment\Assignment2\Debug\Assignment2.exe
+C:\Users\user\Desktop\Assignment\Assignment2\Debug\Assignment2.pdb
+C:\Users\user\Desktop\Assignment\Assignment2\Debug\Assignment2.MyForm.resources
+C:\Users\user\Desktop\Assignment\Assignment2\Debug\Assignment2.vcxproj.GenerateResource.cache
